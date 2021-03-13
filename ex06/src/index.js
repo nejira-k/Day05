@@ -1,6 +1,6 @@
 function main() {
 
-    var myName = "Liz";
+    var myName = "Rajesh";
     var myString = "My names is " + myName + " and I am well!";
 
     return myString;
